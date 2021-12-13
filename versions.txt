@@ -1,0 +1,11 @@
+jupyter core     : 4.6.3
+jupyter-notebook : 6.1.4
+qtconsole        : not installed
+ipython          : 7.18.1
+ipykernel        : 5.3.4
+jupyter client   : 6.1.7
+jupyter lab      : not installed
+nbconvert        : 6.0.7
+ipywidgets       : 7.5.1
+nbformat         : 5.0.7
+traitlets        : 5.0.4
