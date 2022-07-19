@@ -19,12 +19,13 @@ for ent in doc.ents:
 index = "index.csv"
 df = pd.read_csv(index, header=0)
 
-
 ###############################################
 
 #               INDEXES NER
 
-###############################################
+#############################################
+
+
 # Test example with Index Titles
 entities = []
 entity_types = []
